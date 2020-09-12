@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-router-simple-layout/static/css/main.57066106.chunk.css",
+    "main.js": "/react-router-simple-layout/static/js/main.882feafe.chunk.js",
+    "main.js.map": "/react-router-simple-layout/static/js/main.882feafe.chunk.js.map",
+    "runtime-main.js": "/react-router-simple-layout/static/js/runtime-main.3fa003fc.js",
+    "runtime-main.js.map": "/react-router-simple-layout/static/js/runtime-main.3fa003fc.js.map",
+    "static/js/2.0531258d.chunk.js": "/react-router-simple-layout/static/js/2.0531258d.chunk.js",
+    "static/js/2.0531258d.chunk.js.map": "/react-router-simple-layout/static/js/2.0531258d.chunk.js.map",
+    "index.html": "/react-router-simple-layout/index.html",
+    "precache-manifest.04398bab966f551ca13ac1600d95361c.js": "/react-router-simple-layout/precache-manifest.04398bab966f551ca13ac1600d95361c.js",
+    "service-worker.js": "/react-router-simple-layout/service-worker.js",
+    "static/css/main.57066106.chunk.css.map": "/react-router-simple-layout/static/css/main.57066106.chunk.css.map",
+    "static/js/2.0531258d.chunk.js.LICENSE.txt": "/react-router-simple-layout/static/js/2.0531258d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fa003fc.js",
+    "static/js/2.0531258d.chunk.js",
+    "static/css/main.57066106.chunk.css",
+    "static/js/main.882feafe.chunk.js"
+  ]
+}
