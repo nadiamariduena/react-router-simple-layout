@@ -4,6 +4,10 @@
 <h3> This is a Simple REACT ROUTER template to understand
 a bit better the connection between files
 
+[<img src="./src/img/preview2.gif">](https://nadiamariduena.github.io/react-router-simple-layout/)
+
+<br>
+
 </h3>
 
 <p> I decided to make a clean version before continuing with the navbar
@@ -11,14 +15,12 @@ on scroll
 
 </p>
 
-
 <br>
 
 [<img src="./src/img/preview.gif">](https://nadiamariduena.github.io/react-responsive1/)
 
 <br>
 <br>
-
 
 <!-- # PROPS
 
